@@ -24,6 +24,11 @@
           <svg-icon name="timeline-start" :width="117" :height="36" class="text-primary transform rotate-180"/>
         </div>
 
+        <a href="https://github.com/informixpro/timeline-test" class="text-xs text-primary underline text-center mt-7">Source code on Github</a>
+        <p class="text-center">
+          <a href="http://informix.pro/" class="text-xs text-primary underline mt-3">Andrey Sokolov</a>
+        </p>
+
       </div>
     </div>
   </section>
