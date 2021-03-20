@@ -1,4 +1,6 @@
-# timeline-test
+# Timeline-test
+
+![timeline](graphics/timeline.jpeg)
 
 ## Project setup
 ```
