@@ -1,5 +1,7 @@
 # Timeline-test
 
+## Tailwind
+
 ![timeline](graphics/timeline.jpeg)
 
 ## Project setup
